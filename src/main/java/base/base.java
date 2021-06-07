@@ -1,3 +1,7 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Korinne Ramcharitar
+ */
 package base;
 //You’ll often write programs that deal with numbers. And depending on the programming language you use, you’ll have to convert the inputs you get to numerical data types.
 //Write a program that prompts for two numbers. Print the sum, difference, product, and quotient of those numbers as shown in the example output:
